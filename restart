@@ -1,0 +1,4 @@
+screen -X -S oplader quit
+ /usr/bin/screen -L -Logfile oplader.console -dmS oplader ./oplader.py
+sleep 5
+screen -list

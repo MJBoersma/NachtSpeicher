@@ -1,0 +1,10 @@
+[
+    {
+        "start": "05-05",
+        "end": "26-09",
+        "format": "Date in dd-mm format. The same every year",
+        "commentstart": "On the start day, heaters are not charged",
+        "commentend": "On the end day, heaters are first charged again"
+    }
+]
+
